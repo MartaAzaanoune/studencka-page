@@ -1,3 +1,9 @@
+@import './variables.scss';
 body {
-    background:palevioletred ;
+    width: 100%;
+  font-family: $Poppins;
+  color: $dark;
+}
+#root {
+    height: 100%;
 }
